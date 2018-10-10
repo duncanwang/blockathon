@@ -6,11 +6,15 @@
 
 ## 参赛指南
 
-对于参赛团队，以下时间供参考：
+对于参赛团队
+
+[提点子](https://github.com/joinBlockathon/blockathon#%E6%8F%90%E7%82%B9%E5%AD%90) -> 组队(可以提前组队) -> [提交成果](https://github.com/joinBlockathon/blockathon#%E6%8F%90%E4%BA%A4%E6%88%90%E6%9E%9C)(建议频繁提交，如每小时至少提交1次) -> 路演
+
+以下时间供参考：
 
 - 10月19日前，熟悉参赛议题，加入微信群
 - 10月19日 19:00 [提交团队议题](https://github.com/joinBlockathon/blockathon/issues/new)
-- 10月19日 - 10月21日之间，[通过pull request提交黑客内容](https://github.com/joinBlockathon/blockathon/pulls)
+- 10月19日 - 10月21日之间，[通过pull request提交成果](https://github.com/joinBlockathon/blockathon/pulls)
 
 ### 参赛议题
 
@@ -21,10 +25,16 @@
 ...
 
 ### 提点子
-点子通过 github issue 方式收集提交，可以在[比赛之前就提交]((https://github.com/joinBlockathon/blockathon/issues/new))
+点子通过 github issue 方式收集提交，可以在[比赛之前就提交](https://github.com/joinBlockathon/blockathon/issues/new)
 
 ### 提交成果
-工作成果，建议保存在团队自己的github repo内；然后用[pull request方式提交到本仓库]((https://github.com/joinBlockathon/blockathon/pulls))
+工作成果，建议保存在团队自己的github repo内；然后用[pull request方式提交到本仓库](https://github.com/joinBlockathon/blockathon/pulls)
+
+## 奖项设计
+
+- **一等奖：** 20,000 XEM 一名
+- **二等奖：** 10,000 XEM 一名
+- **三等奖：** 5,000 XEM 一名
 
 ### 评分标准
 裁判评分按照以下维度：
@@ -34,9 +44,3 @@
 - 可行性
 - 进度 - 团队在**黑客马拉松期间**的进度
 - 路演表现（pitch）
-
-## 奖项设计
-
-- **一等奖：** 20,000 XEM 一名
-- **二等奖：** 10,000 XEM 一名
-- **三等奖：** 5,000 XEM 一名
